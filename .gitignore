@@ -1,0 +1,4 @@
+secbrech_venv/
+logs/
+.DS_Store
+.env
