@@ -5,6 +5,7 @@ A robust ETL (Extract, Transform, Load) pipeline built with Apache Airflow to pr
 ## 🏗️ Architecture
 
 The pipeline consists of three main tasks:
+
 1. **Extract**: Pulls data from MSSQL database table `Cereales_Genetics_Advanced`
 2. **Transform**: Filters records where `Rendement_Par_Hectare > 75`
 3. **Load**: Saves the transformed data to CSV files
@@ -44,27 +45,32 @@ The pipeline consists of three main tasks:
 ## 🚀 Getting Started
 
 1. Clone the repository:
+
 ```bash
 git clone <your-repository-url>
 cd <repository-name>
 ```
 
 2. Create required directories:
+
 ```bash
 mkdir -p ./dags ./logs ./plugins ./config ./data
 ```
 
 3. Set proper permissions:
+
 ```bash
 chmod -R 777 ./data
 ```
 
 4. Start the containers:
+
 ```bash
 docker-compose up -d
 ```
 
 5. Access Airflow web interface:
+
 - URL: `http://localhost:8080`
 - Username: `mouaad`
 - Password: `mouaadpwd`
@@ -86,6 +92,7 @@ docker-compose up -d
 ## 📅 Scheduling
 
 The pipeline is scheduled to run every three months on the 22nd day:
+
 - Starting from: November 22, 2024
 - Next runs: February 22, May 22, August 22, November 22
 - Time: 00:00 UTC
@@ -112,6 +119,7 @@ Save Task (CSV Output)
 Common issues and solutions:
 
 1. **Permission Denied Error**:
+
    - Ensure the `data` directory has proper permissions
    - Run `chmod -R 777 ./data`
 
@@ -134,7 +142,7 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 
 ## ✍️ Authors
 
-- Your Name - *Initial work*
+- Mouaad AGOURRAM - _Data Engineer_
 
 ## 🙏 Acknowledgments
 
