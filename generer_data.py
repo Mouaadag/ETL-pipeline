@@ -1,3 +1,13 @@
+"""
+This script, generer_data.py, is designed to create and populate a Microsoft SQL Server database table with realistic 
+data for cereals genetics. It includes functions to establish a database connection, create a table, 
+generate realistic data, and insert the data into the table. The script uses the pyodbc library 
+for database operations and numpy for numerical operations. The generated data includes various attributes related 
+to cereals, such as species, genetic type, origin, and yield per hectare. 
+This script is useful for setting up a test database with realistic data for development and testing purposes.
+    """
+
+""""""
 import pyodbc
 import random
 from datetime import datetime, timedelta

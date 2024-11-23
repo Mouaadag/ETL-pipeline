@@ -1,3 +1,11 @@
+"""This script, airflow_dag.py, defines an Apache Airflow DAG for extracting, transforming, and loading data
+from a Microsoft SQL Server database. It uses the MsSqlHook from Airflow's Microsoft SQL Server 
+provider to connect to the database and pandas for data manipulation. The DAG includes tasks for extracting data
+from the Cereales_Genetics_Advanced table, transforming the data (e.g., filtering rows based on specific criteria),
+and potentially loading the transformed data into another system.
+The script leverages Airflow's XCom for passing data between tasks, enabling a seamless ETL process.
+This DAG is useful for automating data workflows and ensuring data consistency and accuracy in a production environment."""
+
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.providers.microsoft.mssql.hooks.mssql import MsSqlHook
