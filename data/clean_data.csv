@@ -1,0 +1,512 @@
+Id,Nom_Variete,Code_Variete,Espece,Type_Genetique,Caractere_Genetique,Origine,Date_Creation,Statut_Commercialisation,Produit_Lab,Resultats_Etudes,Date_Mise_A_Jour,Taille_Plant,Couleur_Epi,Date_Maturation,Taux_Proteine,Rendement_Par_Hectare,Resilience_Sol,Resistance_Temperature,Temps_Pousse,Type_Environnement,Age_Variete,Nombre_Epi,Longueur_Epi,Densite_Plante,Type_Engrais,Plante_Compagnon,Densite_Meteo,Resistance_Maladies,Taux_Humidite,Impact_Chimique,Technologie_Utilisee,Zone_Predominante,Description_Produit,Type_Utilisation,Performance_Climatique,Type_Culture,Qualite_Semence,Durabilite,Strategie_Amelioration,Taux_Produit_OGM
+1,Avoine-1605,AV784,Avoine,Synthétique,Tolérance sécheresse,États-Unis,1581465600000,Commercialisé,KWS,"
+        Essai 1 :
+        - Rendement moyen: 78.9 q/ha
+        - Taux de germination: 97.7%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: À confirmer
+        ",1732294828570,0.84,Roux,1592438400000,15.41,115.53,6.41,21.7,175,Serre,3,6,14.0,376,Azote organique,Féverole,1.18,Faible,12.16,Élevé,Sélection assistée par marqueurs,Nord,Variété de Avoine adaptée pour climat océanique,Alimentation animale,Bonne,Conservation,Certifiée,3 ans,Sélection récurrente,4%
+2,Seigle-5495,SE865,Seigle,Lignée pure,Résistance maladies++,France,1591747200000,En développement,Limagrain,"
+        Essai 2 :
+        - Rendement moyen: 61.3 q/ha
+        - Taux de germination: 97.3%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: Positif
+        ",1732294828570,1.88,Brun,1591833600000,15.44,93.09,5.4,29.54,165,Semi-protégé,5,6,9.8,242,Azote organique,Luzerne,1.03,Moyenne,12.95,Faible,Hybridation classique,Est,Variété de Seigle adaptée pour climat océanique,Double usage,Bonne,Raisonné,Certifiée,2 ans,Rétrocroisement,1%
+3,Triticale-2724,TR426,Triticale,Composite,Résistance maladies++,Espagne,1599609600000,En attente d'homologation,RAGT,"
+        Essai 3 :
+        - Rendement moyen: 69.3 q/ha
+        - Taux de germination: 97.8%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: À confirmer
+        ",1732294828570,1.81,Jaune paille,1591747200000,14.07,110.43,5.46,23.3,171,Serre,5,5,13.6,315,Urée,Pois,1.12,Moyenne,13.95,Élevé,Culture in vitro,Sud,Variété de Triticale adaptée pour climat continental,Alimentation animale,Moyenne,Conservation,Standard,3 ans,Rétrocroisement,1%
+4,Seigle-3642,SE311,Seigle,Synthétique,Haut rendement,Italie,1594339200000,En test,KWS,"
+        Essai 4 :
+        - Rendement moyen: 81.9 q/ha
+        - Taux de germination: 93.4%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: En cours
+        ",1732294828570,1.57,Brun,1593388800000,14.56,97.64,5.5600000000000005,18.97,179,Serre,3,4,12.4,318,NPK,Féverole,1.17,Moyenne,12.63,Modéré,Hybridation classique,Est,Variété de Seigle adaptée pour climat continental,Double usage,Moyenne,Conservation,Premium,5 ans,Sélection récurrente,5%
+7,Triticale-7838,TR733,Triticale,Composite,Tolérance sécheresse,Italie,1592956800000,En développement,Limagrain,"
+        Essai 7 :
+        - Rendement moyen: 74.3 q/ha
+        - Taux de germination: 88.0%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: Positif
+        ",1732294828570,1.06,Jaune paille,1590883200000,14.98,93.49,3.68,34.9,144,Plein champ,2,2,8.3,330,Fumier composté,Pois,1.11,Élevée,13.48,Faible,Hybridation classique,Centre,Variété de Triticale adaptée pour climat continental,Double usage,Excellente,Biologique,Certifiée,5 ans,Rétrocroisement,0%
+8,Blé dur-7266,BL220,Blé dur,Lignée pure,Résistance maladies++,France,1595030400000,En test,Florimond Desprez,"
+        Essai 8 :
+        - Rendement moyen: 65.6 q/ha
+        - Taux de germination: 94.1%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: À confirmer
+        ",1732294828570,1.43,Brun,1592784000000,13.9,114.43,3.38,26.54,169,Semi-protégé,2,4,12.5,282,Urée,Trèfle,0.89,Faible,14.48,Élevé,Sélection assistée par marqueurs,Sud,Variété de Blé dur adaptée pour climat méditerranéen,Double usage,Bonne,Conservation,Certifiée,5 ans,Rétrocroisement,2%
+11,Triticale-5045,TR315,Triticale,Hybride F1,Tolérance sécheresse,Italie,1597622400000,Commercialisé,KWS,"
+        Essai 11 :
+        - Rendement moyen: 72.0 q/ha
+        - Taux de germination: 86.1%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828570,1.22,Jaune paille,1593475200000,15.39,79.37,4.07,16.38,143,Serre,3,6,11.4,245,Azote organique,Luzerne,0.9500000000000001,Moyenne,14.42,Élevé,Culture in vitro,Sud,Variété de Triticale adaptée pour climat méditerranéen,Alimentation animale,Moyenne,Raisonné,Certifiée,2 ans,Rétrocroisement,5%
+12,Blé tendre-1693,BL897,Blé tendre,Population,Haut rendement,Espagne,1587945600000,En attente d'homologation,Limagrain,"
+        Essai 12 :
+        - Rendement moyen: 62.6 q/ha
+        - Taux de germination: 96.5%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828570,1.9,Roux,1593475200000,15.23,75.98,5.15,31.86,150,Serre,1,4,11.4,256,Azote organique,Pois,1.13,Élevée,12.71,Faible,Culture in vitro,Nord,Variété de Blé tendre adaptée pour climat continental,Alimentation humaine,Moyenne,Conservation,Elite,2 ans,Sélection récurrente,1%
+13,Blé tendre-8329,BL865,Blé tendre,Population,Adaptation climat,Belgique,1601251200000,En test,Limagrain,"
+        Essai 13 :
+        - Rendement moyen: 87.9 q/ha
+        - Taux de germination: 94.7%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828570,1.32,Brun,1591747200000,13.06,76.9,4.34,32.72,154,Semi-protégé,4,4,13.4,340,Ammonitrate,Féverole,1.07,Faible,14.61,Faible,Hybridation classique,Centre,Variété de Blé tendre adaptée pour climat continental,Alimentation humaine,Excellente,Raisonné,Elite,4 ans,Sélection généalogique,0%
+14,Seigle-3174,SE264,Seigle,Hybride F1,Haut rendement,Espagne,1609200000000,En attente d'homologation,Limagrain,"
+        Essai 14 :
+        - Rendement moyen: 81.1 q/ha
+        - Taux de germination: 86.1%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: En cours
+        ",1732294828570,0.97,Roux,1591142400000,14.78,87.51,5.68,21.19,179,Plein champ,5,5,11.9,347,Azote organique,Féverole,1.11,Faible,13.49,Élevé,Sélection assistée par marqueurs,Nord,Variété de Seigle adaptée pour climat océanique,Alimentation animale,Excellente,Raisonné,Premium,3 ans,Rétrocroisement,5%
+16,Blé dur-3838,BL432,Blé dur,Lignée pure,Qualité protéique,France,1580860800000,Commercialisé,Limagrain,"
+        Essai 16 :
+        - Rendement moyen: 70.7 q/ha
+        - Taux de germination: 86.2%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828570,1.94,Roux,1592092800000,13.53,100.06,4.85,16.84,159,Plein champ,1,3,10.1,393,Urée,Féverole,1.11,Faible,12.36,Faible,Sélection assistée par marqueurs,Sud,Variété de Blé dur adaptée pour climat océanique,Double usage,Bonne,Conservation,Certifiée,4 ans,Rétrocroisement,1%
+17,Avoine-2854,AV843,Avoine,Population,Adaptation climat,États-Unis,1606608000000,En attente d'homologation,Florimond Desprez,"
+        Essai 17 :
+        - Rendement moyen: 78.8 q/ha
+        - Taux de germination: 90.5%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: À confirmer
+        ",1732294828570,1.6600000000000001,Blanc,1591833600000,13.9,79.83,3.5,25.49,167,Plein champ,4,2,11.4,258,Fumier composté,Pois,0.81,Moyenne,15.0,Modéré,Culture in vitro,Ouest,Variété de Avoine adaptée pour climat continental,Alimentation humaine,Moyenne,Raisonné,Premium,4 ans,Sélection généalogique,3%
+18,Blé tendre-1109,BL842,Blé tendre,Population,Qualité protéique,États-Unis,1578268800000,Commercialisé,Limagrain,"
+        Essai 18 :
+        - Rendement moyen: 84.5 q/ha
+        - Taux de germination: 96.7%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: Positif
+        ",1732294828570,1.9,Doré,1593302400000,13.93,116.72,5.62,30.33,158,Plein champ,4,2,8.3,205,Fumier composté,Pois,1.07,Moyenne,12.58,Élevé,Hybridation classique,Sud,Variété de Blé tendre adaptée pour climat méditerranéen,Alimentation humaine,Bonne,Conventionnel,Certifiée,5 ans,Sélection récurrente,1%
+20,Seigle-5886,SE411,Seigle,Population,Résistance maladies++,Espagne,1595289600000,En attente d'homologation,KWS,"
+        Essai 20 :
+        - Rendement moyen: 80.1 q/ha
+        - Taux de germination: 92.0%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: À confirmer
+        ",1732294828570,0.9500000000000001,Doré,1591488000000,11.19,112.37,5.59,27.94,151,Plein champ,3,4,11.6,372,Azote organique,Féverole,0.81,Moyenne,13.22,Faible,Sélection assistée par marqueurs,Sud,Variété de Seigle adaptée pour climat continental,Alimentation animale,Excellente,Biologique,Elite,3 ans,Sélection généalogique,4%
+23,Triticale-7404,TR472,Triticale,Hybride F1,Résistance maladies++,Allemagne,1586217600000,En test,Syngenta,"
+        Essai 23 :
+        - Rendement moyen: 66.9 q/ha
+        - Taux de germination: 95.1%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.5,Brun,1593388800000,11.04,75.52,3.6,29.8,150,Serre,3,5,10.8,272,Ammonitrate,Pois,1.17,Élevée,13.09,Faible,Culture in vitro,Est,Variété de Triticale adaptée pour climat continental,Alimentation humaine,Bonne,Conservation,Elite,4 ans,Sélection généalogique,5%
+26,Blé tendre-3536,BL200,Blé tendre,Lignée pure,Résistance maladies++,Italie,1607040000000,En développement,Syngenta,"
+        Essai 26 :
+        - Rendement moyen: 77.3 q/ha
+        - Taux de germination: 86.7%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,0.98,Roux,1595116800000,10.67,91.37,3.86,32.58,163,Serre,1,2,14.0,310,Azote organique,Trèfle,0.9500000000000001,Moyenne,13.44,Modéré,Hybridation classique,Nord,Variété de Blé tendre adaptée pour climat océanique,Double usage,Moyenne,Biologique,Standard,3 ans,Rétrocroisement,4%
+27,Avoine-4765,AV764,Avoine,Hybride F1,Adaptation climat,Pays-Bas,1607126400000,En test,Syngenta,"
+        Essai 27 :
+        - Rendement moyen: 79.4 q/ha
+        - Taux de germination: 91.6%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.29,Brun,1593475200000,14.12,83.61,4.5600000000000005,29.37,176,Serre,2,4,9.7,213,Fumier composté,Pois,1.06,Moyenne,12.53,Faible,Sélection assistée par marqueurs,Sud,Variété de Avoine adaptée pour climat méditerranéen,Alimentation animale,Moyenne,Biologique,Premium,3 ans,Rétrocroisement,1%
+29,Seigle-4480,SE963,Seigle,Population,Tolérance sécheresse,Allemagne,1606521600000,Commercialisé,Limagrain,"
+        Essai 29 :
+        - Rendement moyen: 64.4 q/ha
+        - Taux de germination: 95.9%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.48,Brun,1594425600000,15.09,113.93,3.18,27.77,162,Plein champ,4,4,12.8,204,NPK,Pois,0.9400000000000001,Élevée,12.04,Faible,Hybridation classique,Est,Variété de Seigle adaptée pour climat océanique,Alimentation humaine,Excellente,Conservation,Elite,5 ans,Sélection récurrente,1%
+30,Blé dur-8139,BL724,Blé dur,Population,Résistance maladies++,Espagne,1593907200000,En attente d'homologation,RAGT,"
+        Essai 30 :
+        - Rendement moyen: 86.3 q/ha
+        - Taux de germination: 88.4%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.03,Jaune paille,1593734400000,13.94,90.92,4.91,21.0,178,Serre,4,3,10.8,238,Urée,Vesce,1.11,Moyenne,13.71,Élevé,Culture in vitro,Est,Variété de Blé dur adaptée pour climat méditerranéen,Double usage,Bonne,Biologique,Standard,3 ans,Sélection généalogique,3%
+31,Seigle-7130,SE371,Seigle,Synthétique,Qualité protéique,Pays-Bas,1605225600000,En attente d'homologation,Limagrain,"
+        Essai 31 :
+        - Rendement moyen: 60.2 q/ha
+        - Taux de germination: 93.9%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: Positif
+        ",1732294828571,0.97,Brun,1594684800000,13.84,76.14,5.42,22.9,153,Plein champ,3,2,11.1,247,NPK,Féverole,0.97,Moyenne,13.03,Faible,Sélection assistée par marqueurs,Est,Variété de Seigle adaptée pour climat continental,Alimentation humaine,Bonne,Raisonné,Certifiée,2 ans,Rétrocroisement,4%
+33,Blé dur-2836,BL223,Blé dur,Hybride F1,Tolérance sécheresse,Allemagne,1595894400000,Commercialisé,RAGT,"
+        Essai 33 :
+        - Rendement moyen: 71.6 q/ha
+        - Taux de germination: 89.4%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828571,0.9500000000000001,Doré,1592784000000,10.33,106.81,5.18,29.54,141,Semi-protégé,1,6,14.0,246,NPK,Féverole,1.01,Élevée,13.35,Élevé,Hybridation classique,Ouest,Variété de Blé dur adaptée pour climat méditerranéen,Alimentation humaine,Moyenne,Conservation,Certifiée,3 ans,Rétrocroisement,2%
+34,Triticale-9520,TR987,Triticale,Lignée pure,Résistance maladies++,France,1600992000000,En test,INRAE,"
+        Essai 34 :
+        - Rendement moyen: 80.3 q/ha
+        - Taux de germination: 97.4%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.78,Blanc,1591660800000,13.25,79.97,3.38,33.44,168,Serre,2,5,13.1,308,Urée,Luzerne,0.86,Élevée,12.75,Faible,Sélection assistée par marqueurs,Centre,Variété de Triticale adaptée pour climat méditerranéen,Alimentation animale,Bonne,Biologique,Premium,4 ans,Sélection récurrente,3%
+35,Orge-2755,OR720,Orge,Composite,Tolérance sécheresse,Allemagne,1595030400000,En test,RAGT,"
+        Essai 35 :
+        - Rendement moyen: 61.8 q/ha
+        - Taux de germination: 92.6%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: Positif
+        ",1732294828571,0.87,Blanc,1590883200000,15.57,116.53,4.85,23.16,145,Serre,2,2,14.1,338,NPK,Féverole,1.09,Moyenne,13.64,Faible,Sélection assistée par marqueurs,Est,Variété de Orge adaptée pour climat océanique,Alimentation animale,Moyenne,Raisonné,Elite,4 ans,Sélection récurrente,3%
+37,Blé tendre-3991,BL772,Blé tendre,Hybride F1,Résistance maladies++,France,1600041600000,En développement,Limagrain,"
+        Essai 37 :
+        - Rendement moyen: 81.1 q/ha
+        - Taux de germination: 85.3%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.83,Roux,1593388800000,12.59,100.96,3.3,31.79,169,Serre,1,6,10.9,362,Urée,Pois,1.03,Faible,13.88,Modéré,Culture in vitro,Ouest,Variété de Blé tendre adaptée pour climat continental,Alimentation animale,Excellente,Conservation,Elite,5 ans,Rétrocroisement,4%
+38,Seigle-8433,SE692,Seigle,Composite,Résistance maladies++,Allemagne,1583020800000,En test,Limagrain,"
+        Essai 38 :
+        - Rendement moyen: 76.5 q/ha
+        - Taux de germination: 93.6%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.52,Roux,1593129600000,11.69,79.06,3.4,17.5,150,Serre,5,3,13.3,224,Azote organique,Pois,1.12,Moyenne,12.07,Élevé,Sélection assistée par marqueurs,Centre,Variété de Seigle adaptée pour climat océanique,Alimentation animale,Moyenne,Conventionnel,Standard,2 ans,Sélection récurrente,0%
+40,Orge-8289,OR985,Orge,Composite,Qualité protéique,Allemagne,1581033600000,En développement,INRAE,"
+        Essai 40 :
+        - Rendement moyen: 79.0 q/ha
+        - Taux de germination: 89.8%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.6099999999999999,Jaune paille,1593388800000,13.82,114.0,4.7,23.76,173,Plein champ,1,3,10.7,278,Azote organique,Luzerne,0.98,Moyenne,13.94,Élevé,Sélection assistée par marqueurs,Sud,Variété de Orge adaptée pour climat continental,Double usage,Bonne,Raisonné,Certifiée,3 ans,Sélection récurrente,3%
+41,Seigle-3170,SE958,Seigle,Lignée pure,Adaptation climat,Pays-Bas,1598400000000,En test,Syngenta,"
+        Essai 41 :
+        - Rendement moyen: 67.6 q/ha
+        - Taux de germination: 91.4%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.07,Blanc,1591574400000,14.59,115.65,4.28,32.17,150,Semi-protégé,5,5,9.0,310,NPK,Féverole,1.18,Moyenne,13.73,Élevé,Culture in vitro,Est,Variété de Seigle adaptée pour climat océanique,Double usage,Bonne,Biologique,Elite,2 ans,Sélection récurrente,4%
+42,Orge-4739,OR815,Orge,Synthétique,Adaptation climat,Pays-Bas,1583107200000,En attente d'homologation,RAGT,"
+        Essai 42 :
+        - Rendement moyen: 62.2 q/ha
+        - Taux de germination: 88.1%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.48,Blanc,1591315200000,13.55,110.98,5.5600000000000005,16.82,171,Plein champ,5,3,11.3,320,Ammonitrate,Luzerne,1.05,Élevée,14.06,Faible,Sélection assistée par marqueurs,Sud,Variété de Orge adaptée pour climat méditerranéen,Double usage,Excellente,Conservation,Elite,4 ans,Sélection généalogique,4%
+43,Triticale-4992,TR778,Triticale,Hybride F1,Adaptation climat,Belgique,1597881600000,En test,Limagrain,"
+        Essai 43 :
+        - Rendement moyen: 71.1 q/ha
+        - Taux de germination: 85.8%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.54,Roux,1592870400000,14.94,90.12,6.98,25.41,147,Semi-protégé,2,6,13.0,265,NPK,Luzerne,1.05,Moyenne,12.94,Modéré,Culture in vitro,Ouest,Variété de Triticale adaptée pour climat méditerranéen,Double usage,Excellente,Raisonné,Elite,3 ans,Rétrocroisement,2%
+44,Blé tendre-9872,BL827,Blé tendre,Synthétique,Qualité protéique,France,1600819200000,En test,Florimond Desprez,"
+        Essai 44 :
+        - Rendement moyen: 84.0 q/ha
+        - Taux de germination: 94.2%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.32,Blanc,1590883200000,13.52,86.01,6.53,17.37,148,Semi-protégé,4,2,9.7,314,NPK,Pois,1.15,Moyenne,14.74,Modéré,Culture in vitro,Nord,Variété de Blé tendre adaptée pour climat méditerranéen,Alimentation humaine,Bonne,Conservation,Certifiée,4 ans,Sélection généalogique,3%
+45,Orge-4043,OR915,Orge,Hybride F1,Tolérance sécheresse,Pays-Bas,1584316800000,En test,RAGT,"
+        Essai 45 :
+        - Rendement moyen: 76.8 q/ha
+        - Taux de germination: 85.8%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.74,Jaune paille,1593475200000,10.0,119.81,3.9,26.49,157,Plein champ,2,4,8.1,297,Ammonitrate,Trèfle,1.18,Faible,13.79,Élevé,Sélection assistée par marqueurs,Ouest,Variété de Orge adaptée pour climat continental,Double usage,Bonne,Conventionnel,Certifiée,2 ans,Sélection récurrente,2%
+46,Seigle-2515,SE885,Seigle,Population,Tolérance sécheresse,Pays-Bas,1587686400000,En développement,INRAE,"
+        Essai 46 :
+        - Rendement moyen: 83.9 q/ha
+        - Taux de germination: 91.2%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: Positif
+        ",1732294828571,0.8200000000000001,Blanc,1591056000000,11.46,87.73,3.27,24.53,149,Serre,2,2,9.9,309,NPK,Féverole,1.06,Moyenne,12.68,Faible,Sélection assistée par marqueurs,Est,Variété de Seigle adaptée pour climat océanique,Alimentation humaine,Excellente,Conservation,Elite,3 ans,Rétrocroisement,2%
+47,Blé dur-9720,BL149,Blé dur,Lignée pure,Haut rendement,Espagne,1587340800000,Commercialisé,INRAE,"
+        Essai 47 :
+        - Rendement moyen: 81.3 q/ha
+        - Taux de germination: 97.5%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.82,Blanc,1594512000000,12.95,79.61,6.52,27.09,163,Semi-protégé,3,4,10.0,217,Azote organique,Vesce,0.88,Élevée,13.24,Élevé,Sélection assistée par marqueurs,Nord,Variété de Blé dur adaptée pour climat méditerranéen,Double usage,Excellente,Conservation,Premium,5 ans,Sélection récurrente,4%
+48,Triticale-1046,TR728,Triticale,Population,Qualité protéique,Allemagne,1582156800000,Commercialisé,Florimond Desprez,"
+        Essai 48 :
+        - Rendement moyen: 72.6 q/ha
+        - Taux de germination: 87.4%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.88,Blanc,1593388800000,11.92,102.71,6.41,32.74,160,Semi-protégé,1,5,12.0,296,Ammonitrate,Féverole,0.9,Faible,12.08,Élevé,Culture in vitro,Nord,Variété de Triticale adaptée pour climat continental,Alimentation animale,Excellente,Conventionnel,Standard,2 ans,Sélection généalogique,1%
+49,Seigle-6166,SE747,Seigle,Synthétique,Adaptation climat,Allemagne,1590105600000,Commercialisé,INRAE,"
+        Essai 49 :
+        - Rendement moyen: 77.6 q/ha
+        - Taux de germination: 92.5%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.55,Brun,1594944000000,14.2,118.47,5.08,32.18,153,Semi-protégé,4,3,9.9,265,Azote organique,Pois,1.09,Élevée,13.98,Élevé,Culture in vitro,Centre,Variété de Seigle adaptée pour climat méditerranéen,Double usage,Excellente,Raisonné,Standard,5 ans,Sélection récurrente,1%
+50,Triticale-4094,TR846,Triticale,Hybride F1,Résistance maladies++,Allemagne,1593475200000,Commercialisé,INRAE,"
+        Essai 50 :
+        - Rendement moyen: 77.5 q/ha
+        - Taux de germination: 89.1%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.45,Roux,1594684800000,15.75,111.49,3.07,21.29,151,Plein champ,2,6,14.9,265,Azote organique,Pois,0.91,Élevée,13.76,Élevé,Sélection assistée par marqueurs,Sud,Variété de Triticale adaptée pour climat continental,Alimentation humaine,Bonne,Raisonné,Premium,5 ans,Sélection récurrente,4%
+52,Avoine-2833,AV804,Avoine,Hybride F1,Résistance maladies++,France,1590278400000,Commercialisé,INRAE,"
+        Essai 52 :
+        - Rendement moyen: 66.7 q/ha
+        - Taux de germination: 89.9%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.8900000000000001,Roux,1591833600000,13.79,114.99,5.16,24.54,169,Plein champ,4,2,10.7,334,Ammonitrate,Féverole,1.09,Moyenne,13.25,Élevé,Sélection assistée par marqueurs,Centre,Variété de Avoine adaptée pour climat continental,Alimentation animale,Moyenne,Raisonné,Standard,3 ans,Rétrocroisement,5%
+53,Avoine-6621,AV612,Avoine,Synthétique,Haut rendement,Allemagne,1588896000000,En attente d'homologation,Florimond Desprez,"
+        Essai 53 :
+        - Rendement moyen: 82.2 q/ha
+        - Taux de germination: 95.6%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.57,Blanc,1593129600000,14.67,96.99,3.7,21.73,151,Plein champ,1,3,10.1,345,Urée,Vesce,1.15,Moyenne,13.31,Élevé,Hybridation classique,Centre,Variété de Avoine adaptée pour climat méditerranéen,Alimentation animale,Excellente,Raisonné,Certifiée,3 ans,Rétrocroisement,0%
+55,Seigle-6503,SE302,Seigle,Population,Résistance maladies++,Italie,1585267200000,En test,RAGT,"
+        Essai 55 :
+        - Rendement moyen: 80.8 q/ha
+        - Taux de germination: 85.3%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.25,Doré,1593302400000,11.6,105.59,5.77,23.25,175,Serre,3,4,11.3,284,Fumier composté,Vesce,0.98,Moyenne,13.48,Faible,Hybridation classique,Sud,Variété de Seigle adaptée pour climat méditerranéen,Double usage,Bonne,Conventionnel,Certifiée,2 ans,Sélection récurrente,0%
+57,Triticale-1395,TR573,Triticale,Population,Haut rendement,Belgique,1588982400000,En développement,RAGT,"
+        Essai 57 :
+        - Rendement moyen: 60.1 q/ha
+        - Taux de germination: 91.6%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.9100000000000001,Blanc,1592352000000,11.24,97.35,6.11,23.23,162,Semi-protégé,4,4,10.5,384,Urée,Pois,1.04,Faible,14.67,Modéré,Sélection assistée par marqueurs,Centre,Variété de Triticale adaptée pour climat méditerranéen,Double usage,Excellente,Conventionnel,Standard,2 ans,Sélection récurrente,3%
+58,Seigle-5188,SE956,Seigle,Synthétique,Tolérance sécheresse,États-Unis,1604275200000,En test,Florimond Desprez,"
+        Essai 58 :
+        - Rendement moyen: 64.1 q/ha
+        - Taux de germination: 92.0%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.67,Doré,1591056000000,14.21,80.43,5.46,34.16,144,Semi-protégé,3,2,9.8,298,NPK,Pois,0.9500000000000001,Élevée,13.68,Modéré,Hybridation classique,Est,Variété de Seigle adaptée pour climat méditerranéen,Alimentation humaine,Bonne,Conventionnel,Certifiée,5 ans,Rétrocroisement,3%
+59,Avoine-9178,AV592,Avoine,Hybride F1,Adaptation climat,États-Unis,1596499200000,Commercialisé,Syngenta,"
+        Essai 59 :
+        - Rendement moyen: 75.4 q/ha
+        - Taux de germination: 85.5%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.45,Brun,1594339200000,10.72,110.19,4.74,26.96,150,Semi-protégé,1,4,11.9,213,Azote organique,Vesce,0.89,Élevée,12.66,Modéré,Hybridation classique,Centre,Variété de Avoine adaptée pour climat océanique,Alimentation animale,Excellente,Conventionnel,Certifiée,2 ans,Sélection généalogique,2%
+61,Seigle-6313,SE914,Seigle,Hybride F1,Résistance maladies++,Pays-Bas,1583020800000,En développement,Limagrain,"
+        Essai 61 :
+        - Rendement moyen: 76.7 q/ha
+        - Taux de germination: 96.1%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.5,Blanc,1594598400000,14.57,106.98,6.07,33.65,140,Semi-protégé,2,5,13.4,304,Azote organique,Vesce,1.15,Faible,12.9,Modéré,Culture in vitro,Sud,Variété de Seigle adaptée pour climat continental,Double usage,Bonne,Conventionnel,Premium,2 ans,Sélection généalogique,5%
+62,Blé tendre-9192,BL591,Blé tendre,Lignée pure,Tolérance sécheresse,Espagne,1586304000000,En développement,Syngenta,"
+        Essai 62 :
+        - Rendement moyen: 60.3 q/ha
+        - Taux de germination: 91.2%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.98,Roux,1591660800000,15.33,108.95,6.68,33.2,148,Serre,4,3,13.1,358,Ammonitrate,Vesce,1.17,Moyenne,12.55,Élevé,Sélection assistée par marqueurs,Nord,Variété de Blé tendre adaptée pour climat océanique,Alimentation animale,Bonne,Conservation,Elite,4 ans,Rétrocroisement,4%
+63,Triticale-9330,TR745,Triticale,Composite,Haut rendement,Allemagne,1607385600000,En test,Florimond Desprez,"
+        Essai 63 :
+        - Rendement moyen: 75.3 q/ha
+        - Taux de germination: 89.6%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.88,Brun,1592179200000,13.77,88.54,3.64,18.04,165,Semi-protégé,3,4,10.0,217,Ammonitrate,Féverole,1.18,Faible,13.1,Faible,Hybridation classique,Est,Variété de Triticale adaptée pour climat continental,Alimentation animale,Bonne,Conservation,Certifiée,3 ans,Sélection généalogique,5%
+64,Triticale-5756,TR356,Triticale,Composite,Adaptation climat,États-Unis,1593993600000,Commercialisé,Limagrain,"
+        Essai 64 :
+        - Rendement moyen: 76.2 q/ha
+        - Taux de germination: 93.4%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.8599999999999999,Blanc,1592352000000,13.64,113.58,3.63,19.52,154,Serre,5,4,8.5,335,Urée,Féverole,1.17,Faible,12.3,Élevé,Hybridation classique,Nord,Variété de Triticale adaptée pour climat continental,Alimentation humaine,Moyenne,Conservation,Elite,2 ans,Rétrocroisement,0%
+65,Orge-3210,OR528,Orge,Hybride F1,Haut rendement,États-Unis,1580774400000,Commercialisé,KWS,"
+        Essai 65 :
+        - Rendement moyen: 75.0 q/ha
+        - Taux de germination: 86.2%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.6400000000000001,Roux,1592956800000,15.17,95.98,6.57,29.38,148,Semi-protégé,2,2,10.4,368,Azote organique,Pois,1.13,Faible,12.7,Faible,Hybridation classique,Ouest,Variété de Orge adaptée pour climat méditerranéen,Alimentation humaine,Excellente,Conventionnel,Certifiée,5 ans,Sélection généalogique,0%
+66,Triticale-2751,TR810,Triticale,Population,Tolérance sécheresse,Allemagne,1588204800000,En développement,KWS,"
+        Essai 66 :
+        - Rendement moyen: 69.5 q/ha
+        - Taux de germination: 95.7%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: Positif
+        ",1732294828571,0.9,Jaune paille,1594425600000,10.55,78.93,6.02,30.1,161,Semi-protégé,1,3,10.8,268,Urée,Vesce,0.97,Élevée,14.16,Élevé,Sélection assistée par marqueurs,Sud,Variété de Triticale adaptée pour climat océanique,Alimentation humaine,Moyenne,Biologique,Premium,5 ans,Rétrocroisement,1%
+68,Seigle-5342,SE825,Seigle,Composite,Adaptation climat,Italie,1598918400000,Commercialisé,Syngenta,"
+        Essai 68 :
+        - Rendement moyen: 87.5 q/ha
+        - Taux de germination: 94.5%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.51,Brun,1593129600000,10.3,93.46,3.95,24.97,180,Semi-protégé,2,5,14.9,388,Urée,Pois,1.07,Élevée,12.97,Faible,Sélection assistée par marqueurs,Sud,Variété de Seigle adaptée pour climat méditerranéen,Alimentation humaine,Moyenne,Conventionnel,Elite,2 ans,Sélection généalogique,4%
+69,Avoine-5868,AV994,Avoine,Hybride F1,Adaptation climat,Pays-Bas,1596240000000,En développement,Syngenta,"
+        Essai 69 :
+        - Rendement moyen: 87.7 q/ha
+        - Taux de germination: 93.5%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.6800000000000002,Jaune paille,1592438400000,13.74,79.32,4.49,25.72,151,Semi-protégé,3,6,12.9,344,Fumier composté,Vesce,1.13,Élevée,12.52,Élevé,Hybridation classique,Ouest,Variété de Avoine adaptée pour climat méditerranéen,Alimentation animale,Excellente,Conventionnel,Premium,3 ans,Rétrocroisement,2%
+70,Seigle-1252,SE861,Seigle,Population,Haut rendement,France,1597449600000,En attente d'homologation,INRAE,"
+        Essai 70 :
+        - Rendement moyen: 87.8 q/ha
+        - Taux de germination: 88.8%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.6099999999999999,Doré,1592179200000,15.87,82.55,5.38,32.45,179,Serre,5,5,14.9,394,Urée,Trèfle,0.87,Moyenne,12.6,Élevé,Culture in vitro,Nord,Variété de Seigle adaptée pour climat océanique,Double usage,Excellente,Raisonné,Standard,5 ans,Sélection récurrente,4%
+72,Triticale-9109,TR911,Triticale,Lignée pure,Haut rendement,États-Unis,1585180800000,En test,Syngenta,"
+        Essai 72 :
+        - Rendement moyen: 88.2 q/ha
+        - Taux de germination: 90.5%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.8599999999999999,Doré,1593216000000,14.3,87.22,4.5600000000000005,29.93,167,Plein champ,4,5,9.8,386,Urée,Luzerne,1.12,Moyenne,12.16,Faible,Sélection assistée par marqueurs,Nord,Variété de Triticale adaptée pour climat océanique,Alimentation animale,Excellente,Conventionnel,Standard,2 ans,Rétrocroisement,2%
+73,Blé tendre-5472,BL324,Blé tendre,Synthétique,Haut rendement,Allemagne,1602720000000,En test,Limagrain,"
+        Essai 73 :
+        - Rendement moyen: 61.7 q/ha
+        - Taux de germination: 95.5%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.12,Brun,1594944000000,13.4,87.83,6.6,16.36,168,Serre,5,3,9.3,340,NPK,Trèfle,1.05,Moyenne,14.55,Élevé,Hybridation classique,Sud,Variété de Blé tendre adaptée pour climat océanique,Alimentation humaine,Excellente,Conservation,Elite,3 ans,Rétrocroisement,3%
+74,Blé dur-4506,BL676,Blé dur,Lignée pure,Haut rendement,France,1584835200000,En attente d'homologation,KWS,"
+        Essai 74 :
+        - Rendement moyen: 85.5 q/ha
+        - Taux de germination: 89.6%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.79,Blanc,1592006400000,10.73,97.79,4.02,17.84,142,Plein champ,2,4,10.3,204,NPK,Féverole,1.0,Faible,14.49,Élevé,Culture in vitro,Centre,Variété de Blé dur adaptée pour climat méditerranéen,Double usage,Excellente,Conventionnel,Standard,3 ans,Sélection généalogique,1%
+75,Seigle-5374,SE941,Seigle,Synthétique,Résistance maladies++,France,1608595200000,En test,INRAE,"
+        Essai 75 :
+        - Rendement moyen: 62.5 q/ha
+        - Taux de germination: 87.1%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.08,Roux,1592784000000,15.68,113.93,5.93,24.43,163,Plein champ,5,4,10.7,260,Azote organique,Trèfle,1.15,Élevée,12.41,Faible,Hybridation classique,Centre,Variété de Seigle adaptée pour climat méditerranéen,Double usage,Moyenne,Raisonné,Standard,5 ans,Sélection récurrente,2%
+76,Avoine-2089,AV476,Avoine,Hybride F1,Qualité protéique,États-Unis,1586304000000,En test,Florimond Desprez,"
+        Essai 76 :
+        - Rendement moyen: 82.8 q/ha
+        - Taux de germination: 96.0%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.9500000000000002,Doré,1593648000000,12.97,93.7,6.6,18.76,141,Plein champ,5,3,13.1,370,Azote organique,Luzerne,1.09,Élevée,13.93,Faible,Hybridation classique,Est,Variété de Avoine adaptée pour climat océanique,Alimentation animale,Excellente,Conservation,Premium,5 ans,Sélection récurrente,3%
+77,Avoine-3925,AV556,Avoine,Composite,Résistance maladies++,Allemagne,1578182400000,En développement,Limagrain,"
+        Essai 77 :
+        - Rendement moyen: 83.3 q/ha
+        - Taux de germination: 96.6%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.29,Jaune paille,1592870400000,14.8,111.1,5.17,17.21,156,Semi-protégé,4,6,10.1,310,Fumier composté,Pois,1.18,Élevée,13.46,Faible,Sélection assistée par marqueurs,Est,Variété de Avoine adaptée pour climat méditerranéen,Alimentation animale,Bonne,Conservation,Certifiée,5 ans,Sélection récurrente,2%
+79,Orge-6528,OR418,Orge,Synthétique,Qualité protéique,France,1589241600000,En attente d'homologation,RAGT,"
+        Essai 79 :
+        - Rendement moyen: 79.6 q/ha
+        - Taux de germination: 92.7%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: En cours
+        ",1732294828571,0.81,Roux,1594425600000,10.3,118.49,3.87,23.82,171,Semi-protégé,4,3,13.7,207,Fumier composté,Vesce,0.81,Moyenne,13.16,Élevé,Hybridation classique,Nord,Variété de Orge adaptée pour climat océanique,Alimentation animale,Bonne,Conventionnel,Standard,3 ans,Rétrocroisement,0%
+81,Avoine-8412,AV191,Avoine,Lignée pure,Résistance maladies++,Espagne,1608595200000,Commercialisé,KWS,"
+        Essai 81 :
+        - Rendement moyen: 72.5 q/ha
+        - Taux de germination: 90.9%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,0.8200000000000001,Jaune paille,1593993600000,13.59,79.45,3.89,24.26,160,Plein champ,1,6,10.8,296,Fumier composté,Pois,1.17,Élevée,14.03,Faible,Hybridation classique,Sud,Variété de Avoine adaptée pour climat méditerranéen,Alimentation humaine,Moyenne,Raisonné,Standard,3 ans,Sélection généalogique,0%
+83,Blé dur-8741,BL233,Blé dur,Synthétique,Adaptation climat,Espagne,1578009600000,En développement,Florimond Desprez,"
+        Essai 83 :
+        - Rendement moyen: 65.9 q/ha
+        - Taux de germination: 90.8%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: En cours
+        ",1732294828571,0.85,Blanc,1594944000000,13.35,81.64,4.55,20.95,177,Plein champ,3,3,12.5,267,Azote organique,Luzerne,1.05,Élevée,14.83,Modéré,Culture in vitro,Est,Variété de Blé dur adaptée pour climat méditerranéen,Alimentation animale,Moyenne,Raisonné,Elite,2 ans,Sélection récurrente,2%
+84,Blé tendre-1234,BL980,Blé tendre,Population,Résistance maladies++,Espagne,1601942400000,En attente d'homologation,INRAE,"
+        Essai 84 :
+        - Rendement moyen: 66.6 q/ha
+        - Taux de germination: 91.4%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: En cours
+        ",1732294828571,0.87,Blanc,1591833600000,14.34,76.15,3.27,15.53,168,Serre,5,4,8.2,394,NPK,Trèfle,1.17,Faible,12.01,Faible,Culture in vitro,Nord,Variété de Blé tendre adaptée pour climat méditerranéen,Double usage,Excellente,Raisonné,Premium,4 ans,Rétrocroisement,4%
+85,Triticale-8591,TR848,Triticale,Hybride F1,Tolérance sécheresse,Espagne,1598572800000,En test,Limagrain,"
+        Essai 85 :
+        - Rendement moyen: 76.8 q/ha
+        - Taux de germination: 85.7%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.85,Roux,1593734400000,15.15,95.8,4.36,32.78,161,Serre,1,3,8.7,201,Azote organique,Pois,1.08,Moyenne,12.06,Élevé,Hybridation classique,Est,Variété de Triticale adaptée pour climat continental,Alimentation animale,Excellente,Conventionnel,Premium,4 ans,Sélection récurrente,1%
+87,Triticale-7750,TR910,Triticale,Lignée pure,Tolérance sécheresse,Allemagne,1578528000000,En attente d'homologation,Florimond Desprez,"
+        Essai 87 :
+        - Rendement moyen: 64.4 q/ha
+        - Taux de germination: 92.0%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.73,Doré,1592006400000,13.94,100.24,3.27,22.23,142,Semi-protégé,1,4,10.8,275,Azote organique,Vesce,0.89,Faible,12.8,Modéré,Hybridation classique,Est,Variété de Triticale adaptée pour climat continental,Alimentation humaine,Moyenne,Biologique,Standard,2 ans,Rétrocroisement,5%
+88,Avoine-6036,AV595,Avoine,Population,Qualité protéique,France,1605398400000,En test,Limagrain,"
+        Essai 88 :
+        - Rendement moyen: 85.8 q/ha
+        - Taux de germination: 87.4%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828571,0.9,Jaune paille,1591056000000,14.28,83.17,4.76,20.35,176,Serre,3,2,14.6,245,Azote organique,Pois,0.81,Moyenne,12.19,Modéré,Hybridation classique,Ouest,Variété de Avoine adaptée pour climat océanique,Alimentation humaine,Excellente,Conventionnel,Standard,3 ans,Sélection récurrente,1%
+89,Avoine-9529,AV186,Avoine,Composite,Adaptation climat,Allemagne,1596844800000,En développement,KWS,"
+        Essai 89 :
+        - Rendement moyen: 60.6 q/ha
+        - Taux de germination: 86.1%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828571,0.81,Roux,1592265600000,14.09,110.8,3.49,15.55,164,Semi-protégé,3,2,8.7,264,Ammonitrate,Pois,1.1,Faible,12.47,Élevé,Culture in vitro,Nord,Variété de Avoine adaptée pour climat méditerranéen,Alimentation humaine,Moyenne,Raisonné,Certifiée,4 ans,Sélection récurrente,5%
+90,Avoine-2359,AV779,Avoine,Hybride F1,Tolérance sécheresse,Belgique,1602115200000,En développement,KWS,"
+        Essai 90 :
+        - Rendement moyen: 86.3 q/ha
+        - Taux de germination: 92.2%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.07,Brun,1592524800000,11.65,114.76,5.49,17.05,145,Semi-protégé,2,2,12.3,269,Fumier composté,Féverole,1.17,Élevée,14.78,Modéré,Hybridation classique,Sud,Variété de Avoine adaptée pour climat continental,Alimentation animale,Bonne,Conventionnel,Elite,2 ans,Sélection récurrente,3%
+91,Triticale-6840,TR939,Triticale,Synthétique,Qualité protéique,Belgique,1586131200000,En test,INRAE,"
+        Essai 91 :
+        - Rendement moyen: 83.6 q/ha
+        - Taux de germination: 97.4%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.11,Roux,1593216000000,15.04,90.53,4.29,29.96,174,Serre,3,6,13.9,205,Urée,Féverole,0.8,Faible,14.73,Faible,Hybridation classique,Ouest,Variété de Triticale adaptée pour climat océanique,Double usage,Excellente,Raisonné,Certifiée,3 ans,Rétrocroisement,2%
+93,Blé tendre-3780,BL633,Blé tendre,Hybride F1,Qualité protéique,Allemagne,1597190400000,En développement,Syngenta,"
+        Essai 93 :
+        - Rendement moyen: 84.2 q/ha
+        - Taux de germination: 88.5%
+        - Résistance maladie: Excellente
+        - Test en conditions réelles: Positif
+        ",1732294828571,1.12,Doré,1593216000000,13.22,75.71,6.16,15.2,155,Semi-protégé,4,4,10.1,288,Fumier composté,Pois,0.92,Élevée,12.66,Élevé,Sélection assistée par marqueurs,Sud,Variété de Blé tendre adaptée pour climat océanique,Alimentation animale,Moyenne,Biologique,Premium,3 ans,Sélection généalogique,2%
+94,Blé tendre-8783,BL700,Blé tendre,Hybride F1,Tolérance sécheresse,États-Unis,1591747200000,Commercialisé,KWS,"
+        Essai 94 :
+        - Rendement moyen: 67.7 q/ha
+        - Taux de germination: 87.1%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: À confirmer
+        ",1732294828571,1.71,Blanc,1595116800000,10.13,94.16,6.47,16.15,141,Plein champ,4,3,8.3,329,Urée,Féverole,1.1,Faible,12.05,Modéré,Culture in vitro,Centre,Variété de Blé tendre adaptée pour climat océanique,Alimentation humaine,Excellente,Biologique,Premium,2 ans,Rétrocroisement,1%
+95,Orge-5977,OR580,Orge,Population,Tolérance sécheresse,Italie,1607644800000,En attente d'homologation,Limagrain,"
+        Essai 95 :
+        - Rendement moyen: 68.3 q/ha
+        - Taux de germination: 96.7%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: Positif
+        ",1732294828571,0.91,Doré,1590883200000,14.15,102.4,6.75,17.0,140,Semi-protégé,3,5,13.7,351,Azote organique,Féverole,0.9500000000000001,Élevée,14.16,Modéré,Sélection assistée par marqueurs,Ouest,Variété de Orge adaptée pour climat continental,Alimentation animale,Excellente,Biologique,Standard,4 ans,Sélection récurrente,4%
+96,Orge-8683,OR203,Orge,Hybride F1,Qualité protéique,Allemagne,1580342400000,Commercialisé,RAGT,"
+        Essai 96 :
+        - Rendement moyen: 61.7 q/ha
+        - Taux de germination: 93.8%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: En cours
+        ",1732294828571,1.02,Doré,1594684800000,11.39,101.72,6.58,30.95,172,Semi-protégé,4,2,9.6,283,Fumier composté,Vesce,1.01,Moyenne,14.37,Élevé,Culture in vitro,Sud,Variété de Orge adaptée pour climat océanique,Alimentation animale,Excellente,Biologique,Elite,4 ans,Rétrocroisement,3%
+98,Avoine-4639,AV896,Avoine,Lignée pure,Résistance maladies++,Belgique,1584403200000,En développement,Syngenta,"
+        Essai 98 :
+        - Rendement moyen: 67.7 q/ha
+        - Taux de germination: 93.8%
+        - Résistance maladie: Bonne
+        - Test en conditions réelles: À confirmer
+        ",1732294828572,1.71,Blanc,1592179200000,13.23,78.85,4.34,30.05,140,Plein champ,1,4,14.2,264,Azote organique,Trèfle,1.04,Moyenne,12.44,Faible,Culture in vitro,Centre,Variété de Avoine adaptée pour climat continental,Alimentation humaine,Bonne,Conservation,Certifiée,2 ans,Rétrocroisement,5%
+99,Orge-6413,OR659,Orge,Hybride F1,Adaptation climat,France,1591142400000,En développement,KWS,"
+        Essai 99 :
+        - Rendement moyen: 61.6 q/ha
+        - Taux de germination: 89.0%
+        - Résistance maladie: Moyenne
+        - Test en conditions réelles: En cours
+        ",1732294828572,0.8,Roux,1592352000000,13.36,85.66,3.33,16.94,158,Plein champ,3,4,11.0,392,NPK,Pois,1.1,Faible,12.96,Faible,Sélection assistée par marqueurs,Ouest,Variété de Orge adaptée pour climat méditerranéen,Double usage,Bonne,Raisonné,Certifiée,2 ans,Sélection généalogique,0%
