@@ -47,8 +47,8 @@ The pipeline consists of three main tasks:
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/Mouaadag/ETL-pipeline
+cd ETL-pipeline
 ```
 
 2. Create required directories:
