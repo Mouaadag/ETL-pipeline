@@ -89,13 +89,13 @@ services:
   postgres:
     image: postgres:13
     environment:
-      POSTGRES_USER: airflow
-      POSTGRES_PASSWORD: airflow
-      POSTGRES_DB: airflow
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
     volumes:
       - postgres-db-volume:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD", "pg_isready", "-U", "airflow"]
+      test: ["CMD", "pg_isready", "-U", "${POSTGRES_USER}"]
       interval: 10s
       retries: 5
       start_period: 5s
@@ -246,8 +246,8 @@ services:
       <<: *airflow-common-env
       _AIRFLOW_DB_MIGRATE: "true"
       _AIRFLOW_WWW_USER_CREATE: "true"
-      _AIRFLOW_WWW_USER_USERNAME: ${_AIRFLOW_WWW_USER_USERNAME:-mouaad}
-      _AIRFLOW_WWW_USER_PASSWORD: ${_AIRFLOW_WWW_USER_PASSWORD:-mouaadpwd}
+      _AIRFLOW_WWW_USER_USERNAME: ${_AIRFLOW_WWW_USER_USERNAME}
+      _AIRFLOW_WWW_USER_PASSWORD: ${_AIRFLOW_WWW_USER_PASSWORD}
       _PIP_ADDITIONAL_REQUIREMENTS: ""
     user: "0:0"
     volumes:
@@ -294,7 +294,7 @@ services:
     container_name: mssql-server
     environment:
       - ACCEPT_EULA=Y
-      - SA_PASSWORD=MyComplexPassword123! # Replace with your strong password
+      - SA_PASSWORD=${MSSQL_SA_PASSWORD}! # Replace with your strong password
     ports:
       - "1433:1433" # Maps host port 56038 to container's port 1433
     healthcheck:
@@ -304,7 +304,7 @@ services:
           "-U",
           "sa",
           "-P",
-          "MyComplexPassword123!", # Ensure the password matches what you set
+          "${MSSQL_SA_PASSWORD}", # Ensure the password matches what you set
           "-Q",
           "SELECT 1",
         ]
